@@ -1,0 +1,7 @@
+# Arch makepkg build artifacts
+/pkg/
+/src/
+/*.pkg.tar.*
+/*.src.tar.*
+/*.sig
+

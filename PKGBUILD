@@ -3,7 +3,6 @@ pkgver=0.1.0
 pkgrel=1
 pkgdesc="Pacman wrapper that offers Gemini CLI troubleshooting on pacman failures"
 arch=('any')
-url='https://local-only/no-upstream'
 license=('MIT')
 depends=('bash' 'pacman')
 optdepends=('gemini-cli: send pacman errors to Gemini CLI')
